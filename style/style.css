@@ -1,0 +1,14 @@
+.main-title {
+    color: violet;
+}
+.rgb-title {
+    color: rgb(255, 215, 0);
+}
+
+.hex-title {
+    color: #dc143c;
+}
+
+.hsl-title {
+    color: hsla(246, 100%, 50%);
+}
